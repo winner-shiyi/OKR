@@ -1,0 +1,22 @@
+.listpage-total-wrapper {
+  .listpage-total-title {
+    text-align: right;
+  }
+  background: #fff;
+  padding: 4px 16px 24px 16px;
+  border-radius: 4px;
+  box-shadow: 1px 2px 1px rgba(0,0,0,.072);
+  border: 1px solid #e5e9e8;
+  margin-bottom: 16px;
+  .listpage-total-item {
+    text-align: center;
+    .listpage-total-label {
+      font-size: 14px;
+    }
+    .listpage-total-text {
+      margin-left: 4px;
+      font-size: 16px;
+      font-weight: bold;
+    }
+  }
+}

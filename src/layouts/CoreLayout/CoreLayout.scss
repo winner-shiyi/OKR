@@ -1,0 +1,53 @@
+@import '../../styles/variables/colors';
+.core-layout__viewport {
+  padding-top: 4rem;
+}
+
+.ant-layout-sider .logo-wrapper {
+  height: 300px;
+  border-bottom: 1px solid rgb(236, 236, 236);
+  img {
+    width: 160px;
+    height: 160px;
+  }
+}
+
+.logo-title {
+  font-size: 14px;
+  color: #333;
+}
+
+.logo-text {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.68);
+}
+
+.login-name {
+  font-size: 14px;
+}
+
+.no-spin-icon .ant-spin-dot i {
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.ant-layout-sider-trigger {
+  background: rgba(255, 255, 255, 0);
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.ant-layout-sider .logo img {
+  transition: all .1s;
+  transition-timing-function: ease-in;
+}
+
+.ant-layout-sider-collapsed {
+  .logo {
+    img {
+      width: 64px;
+      height: 64px;
+    }
+  }
+  .logo-title {
+    display: none;
+  }
+}

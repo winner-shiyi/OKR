@@ -1,0 +1,21 @@
+{
+  "apiAddress": {
+    "online": "",
+    "pre": "",
+    "qaif": "",
+    "qafc": "",
+    "dev": "",
+    "development": "",
+    "mock": "//172.16.2.71:8068/mockjsdata/31"
+  },
+  "countly": {
+    "appKey": {
+      "online": "d1e8a45cccb4a3879399504c2b6b813d5370aacc",
+      "pre": "",
+      "qafc": "",
+      "qaif": "",
+      "dev": "",
+      "development": ""
+    }
+  }
+}

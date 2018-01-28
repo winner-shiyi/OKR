@@ -1,0 +1,16 @@
+.ant-menu-inline-collapsed {
+  i.anticon {
+    font-size: 16px;
+  }
+  .menu-text {
+    display: none;
+  }
+  .ant-menu-item {
+    .menu-text {
+      display: block;
+    }
+  }
+  .ant-menu-vertical.ant-menu {
+    background-color: rgba(255, 255, 255, 0.5);
+  }
+}

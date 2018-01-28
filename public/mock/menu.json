@@ -1,0 +1,35 @@
+{
+  "resultCode": "0",
+  "resultData": [
+    {
+      "id": "1",
+      "name": "兔波波骑手驿站",
+      "children": [
+        {
+          "id": "12",
+          "name": "任务大厅",
+          "icon": "clock-circle-o",
+          "href": "/Manage/Order"
+        },
+        {
+          "id": "11",
+          "name": "入驻管理",
+          "icon": "team",
+          "children": [
+            {
+              "id": "111",
+              "name": "商家管理",
+              "href": "/Manage/Shop"
+            },
+            {
+              "id": "112",
+              "name": "骑手管理",
+              "href": "/Manage/Rider"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resultDesc": "SUCCESS"
+}

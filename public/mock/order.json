@@ -1,0 +1,57 @@
+{
+  "resultCode": "0",
+  "resultData": {
+  "list": [
+    {
+      "amount": "测试内容i3rc",
+      "beforeCancelStatus": "测试内容d1ks",
+      "cancelReason": "测试内容4mpb",
+      "cancelTime": "1505716039840",
+      "confirmTime": "1505716039840",
+      "deliveryDistance": "测试内容2qn2",
+      "expectFinishTime": "1505716039840",
+      "finishOrderTime": "1505716039840",
+      "grabItemTime": "1505716039840",
+      "noDeliveredReason": "测试内容1yel",
+      "noDeliveredTime": "1505716039840",
+      "orderNo": "1",
+      "orderStatus": "CONFIRM",
+      "orderTime": "1505716039840",
+      "overtimeStatus": "测试内容56rr",
+      "receiverName": "测试内容c75u",
+      "receiverAddress": "测试内容c1ne",
+      "receiverPhone": "测试内容3v77",
+      "riderName": "测试内容v273",
+      "riderPhone": "18888888888",
+      "shopName": "测试内容tm2x"
+    },
+    {
+      "amount": "测试内容i3rc",
+      "beforeCancelStatus": "测试内容d1ks",
+      "cancelReason": "测试内容4mpb",
+      "cancelTime": "1505716039840",
+      "confirmTime": "1505716039840",
+      "deliveryDistance": "测试内容2qn2",
+      "expectFinishTime": "1505716039840",
+      "finishOrderTime": "1505716039840",
+      "grabItemTime": "1505716039840",
+      "noDeliveredReason": "测试内容1yel",
+      "noDeliveredTime": "1505716039840",
+      "orderNo": "2",
+      "orderStatus": "CONFIRM",
+      "orderTime": "1505716039840",
+      "overtimeStatus": "测试内容56rr",
+      "receiverName": "测试内容c75u",
+      "receiverAddress": "测试内容c1ne",
+      "receiverPhone": "测试内容3v77",
+      "riderName": "测试内容v273",
+      "riderPhone": "18888888888",
+      "shopName": "测试内容tm2x"
+    }
+  ],
+    "pageNo": 1,
+    "pageSize": 10,
+    "total": 2
+},
+  "resultDesc": "测试内容c430"
+}

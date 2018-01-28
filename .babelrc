@@ -1,0 +1,21 @@
+{
+  "presets": ["es2015", "react", "stage-0"],
+  "plugins": [
+    ["import", [{
+      "libraryName": "antd",
+      "style": true   // or 'css'
+    }]],
+    ["babel-plugin-imports-transform", {
+      "local-components": {
+        "transform": "local-components/dist/${member}",
+        "preventFullImport": true
+      }
+    }],
+    ["transform-imports", {
+      "@xinguang/common-tool": {
+        "transform": "@xinguang/common-tool/lib/${member}",
+        "preventFullImport": true
+      }
+    }]
+	]
+}
